@@ -118,6 +118,19 @@ Chapters 11 (discrete optimization) and 12 (dynamic programming) are also in
 | [`resources/slides/`](resources/slides/) | The authors' chapter slides, 12 decks |
 | [`resources/syllabus/`](resources/syllabus/) | Syllabus PDF |
 
+## Who changes what
+
+| File | Who edits it | When |
+|------|-------------|------|
+| `weeks/NN-*.md` | **anyone** | Only when the course itself changes — a new topic, a better reading, a correction. Never for personal notes. |
+| `docs/*.md` | **anyone** | When you learn something durable: a new exam pattern, a better source. |
+| `terms/<your-term>/notes/week-NN.md` | **only you** | Every week. This is your notebook. |
+| `terms/<your-term>/` | **only you** | Your slides, labs, assignments, submissions. |
+| `exams/past/<term>/` | **anyone** | When you get hold of a new paper. |
+
+Two students in different years never touch the same file except to improve the
+shared plan — which is the point.
+
 ## Contributing
 
 Create `terms/<YYYY>-<YYYY>-<term>/` with a `README.md` naming the instructor and

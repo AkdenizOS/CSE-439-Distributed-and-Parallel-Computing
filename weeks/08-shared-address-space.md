@@ -29,12 +29,7 @@
 - [ ] Lab done
 - [ ] Code compiles and runs
 
-## My notes
+---
 
-<!-- Lecture: what was actually covered. -->
-
-<!-- Derivations: speedup, efficiency, isoefficiency. -->
-
-<!-- Questions to ask. -->
-
-<!-- Exam-worthy: cost formulas, topology metrics. -->
+Your own notes for this week go in `terms/<your-term>/notes/week-08.md`, not here.
+This file is the shared plan — improve it if the course changes, but keep it general.
