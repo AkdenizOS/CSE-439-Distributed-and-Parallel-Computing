@@ -73,6 +73,14 @@ so get in the habit of timing at 1, 2, 4 and 8 processes and computing
 
 Compiled binaries are ignored by git — build them yourself.
 
+## Worked examples
+
+[`terms/2023-2024-spring/`](terms/2023-2024-spring/) holds a previous student's two
+homeworks and midterm project from when the course was coded CSE 440. The midterm
+report — parallel 5000×5000 matrix multiplication in MPI, with speedup and
+efficiency measured against a single-processor baseline — is the clearest model of
+what the course expects a report to look like.
+
 ## Textbook
 
 Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed.,
@@ -86,7 +94,7 @@ and the week notes follow its structure.
 | [`weeks/`](weeks/) | The study plan, one note per week |
 | [`docs/`](docs/) | Syllabus summary, glossary |
 | [`labs/`](labs/) | Lab code, kept working |
-| [`terms/`](terms/) | One folder per cohort |
+| [`terms/`](terms/) | One folder per cohort — including a previous student's CSE 440 coursework |
 | [`resources/`](resources/) | Syllabus PDF |
 
 ## Contributing
