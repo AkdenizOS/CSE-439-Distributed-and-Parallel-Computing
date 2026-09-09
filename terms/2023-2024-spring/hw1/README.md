@@ -17,7 +17,12 @@ We compared a traditional matrix multiplication method with an optimized, transp
 
 ## Data Visualizations
 
-![Matrix Multiplication Performance](visualize.png)  
+The plot is generated, not stored. Produce it with:
+
+```bash
+./test.sh            # writes matrix_multiplication_results.txt
+python3 visiualize.py  # writes matrix_multiplication_performance.png
+```
 _Figure 1: Execution time comparison between traditional and optimized matrix multiplication methods across different matrix sizes._
 
 ## Conclusion

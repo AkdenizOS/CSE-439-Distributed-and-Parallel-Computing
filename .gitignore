@@ -6,3 +6,7 @@ labs/matrix-multiplication/matrix_multiply
 
 .DS_Store
 __pycache__/
+terms/2023-2024-spring/hw1/matrix_multiply
+terms/2023-2024-spring/hw2/main
+terms/2023-2024-spring/midterm/main
+matrix_multiplication_performance.png
