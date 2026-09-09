@@ -15,7 +15,8 @@
 
 ## Reading
 
-- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the syllabus's textbook, **not in this repository**
+- [Grama — Ch. 4 — Basic Communication Operations](../resources/slides/grama-chap04-slides.pdf) — the authors' own slides for this chapter
+- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the book itself is not in this repository
 
 ## Practice
 - [ ] Trace a broadcast on a 3-dimensional hypercube, step by step

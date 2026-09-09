@@ -17,7 +17,8 @@
 
 ## Reading
 
-- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the syllabus's textbook, **not in this repository**
+- [Grama — Ch. 5 — Analytical Modeling of Parallel Programs](../resources/slides/grama-chap05-slides.pdf) — the authors' own slides for this chapter
+- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the book itself is not in this repository
 
 ## Practice
 - [ ] Derive the isoefficiency function for a parallel sum reduction

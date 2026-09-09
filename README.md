@@ -81,11 +81,31 @@ report — parallel 5000×5000 matrix multiplication in MPI, with speedup and
 efficiency measured against a single-processor baseline — is the clearest model of
 what the course expects a report to look like.
 
-## Textbook
+## Textbook and slides
 
-Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed.,
-Addison-Wesley. **Not in this repository.** It is the syllabus's only cited source
-and the week notes follow its structure.
+The syllabus's only cited source is Grama, Gupta, Karypis & Kumar, *Introduction to
+Parallel Computing*, 2nd ed., Addison-Wesley. The book itself is not here, but
+**the authors publish their own slides for every chapter** and those are:
+[`resources/slides/`](resources/slides/) — 12 decks, 773 slides, covering the whole
+book. Every week note links the deck for its chapter.
+
+Source: [Ananth Grama's CS525 page, Purdue](https://www.cs.purdue.edu/homes/ayg/CS525/lectures.html).
+
+| Week | Chapter deck |
+|------|--------------|
+| 1 | Ch. 1 Introduction |
+| 2 | Ch. 2 Parallel Programming Platforms |
+| 3 | Ch. 3 Principles of Parallel Algorithm Design |
+| 4-5 | Ch. 4 Basic Communication Operations |
+| 6 | Ch. 5 Analytical Modeling |
+| 7 | Ch. 7 Programming Message Passing Platforms |
+| 8 | Ch. 6 Programming Shared Address Space Platforms |
+| 10-11 | Ch. 8 Dense Matrix Algorithms |
+| 12-13 | Ch. 9 Sorting |
+| 14 | Ch. 10 Graph Algorithms |
+
+Chapters 11 (discrete optimization) and 12 (dynamic programming) are also in
+`resources/slides/` — beyond the syllabus, but they connect straight to CSE 413.
 
 ## Layout
 
@@ -95,7 +115,8 @@ and the week notes follow its structure.
 | [`docs/`](docs/) | Syllabus summary, glossary |
 | [`labs/`](labs/) | Lab code, kept working |
 | [`terms/`](terms/) | One folder per cohort — including a previous student's CSE 440 coursework |
-| [`resources/`](resources/) | Syllabus PDF |
+| [`resources/slides/`](resources/slides/) | The authors' chapter slides, 12 decks |
+| [`resources/syllabus/`](resources/syllabus/) | Syllabus PDF |
 
 ## Contributing
 

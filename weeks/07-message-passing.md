@@ -17,7 +17,8 @@
 
 ## Reading
 
-- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the syllabus's textbook, **not in this repository**
+- [Grama — Ch. 7 — Programming Message Passing Platforms](../resources/slides/grama-chap07-slides.pdf) — the authors' own slides for this chapter
+- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the book itself is not in this repository
 
 ## Practice
 - [ ] Build every program in [`labs/mpi/`](../labs/mpi/) and run at 1, 2, 4, 8 processes

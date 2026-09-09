@@ -15,7 +15,8 @@
 
 ## Reading
 
-- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the syllabus's textbook, **not in this repository**
+- [Grama — Ch. 9 — Sorting](../resources/slides/grama-chap09-slides.pdf) — the authors' own slides for this chapter
+- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the book itself is not in this repository
 
 ## Practice
 - [ ] Implement sample sort in MPI and measure the load imbalance

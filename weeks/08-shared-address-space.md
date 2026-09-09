@@ -17,7 +17,8 @@
 
 ## Reading
 
-- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the syllabus's textbook, **not in this repository**
+- [Grama — Ch. 6 — Programming Shared Address Space Platforms](../resources/slides/grama-chap06-slides.pdf) — the authors' own slides for this chapter
+- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the book itself is not in this repository
 
 ## Practice
 - [ ] Extend [`labs/shared-memory/mythread.c`](../labs/shared-memory/mythread.c) with a mutex-protected counter

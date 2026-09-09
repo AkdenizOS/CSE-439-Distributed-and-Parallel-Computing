@@ -12,7 +12,7 @@
 
 ## Reading
 
-- Grama, Gupta, Karypis & Kumar, *Introduction to Parallel Computing*, 2nd ed. — the syllabus's textbook, **not in this repository**
+- Review [`resources/slides/`](../resources/slides/) chapters 1-7 — the authors' own slides
 
 ## Practice
 - [ ] Redo every lab and be able to explain the cost model from memory
